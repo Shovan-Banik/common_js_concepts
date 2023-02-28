@@ -15,6 +15,7 @@ falsy:
 3. '' (empty string)
 4. undefined(all undifined is falsy)
 5. null
+6.NaN
 */
 
 const x=4;
